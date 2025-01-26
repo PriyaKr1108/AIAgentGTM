@@ -1,7 +1,7 @@
 # AI Agent for GTM Question Answering
 
 ## Description
-This project implements an AI agent that can answer questions based on the content of uploaded PDF files. It utilizes a Flask web application to allow users to upload PDFs and interact with the AI.
+An agent that answers questions based on the top GTM strategists' thoughts in the world. This project implements an AI agent that can answer questions based on the content of uploaded PDF files. It utilizes a Flask web application to allow users to upload PDFs and interact with the AI.
 
 ## Installation Instructions
 1. Clone the repository:
